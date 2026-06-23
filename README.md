@@ -59,6 +59,8 @@ Authored a research proposal addressing AI sycophancy — the tendency of LLMs t
 
 **CS Coursework:** OOPs · Computer System Architecture · Digital Logic
 
+**Tools & Platforms:** Postman · VSCode · Kaggle · Google Colab 
+
 ---
 
 ## 🏆 Competitive Programming
